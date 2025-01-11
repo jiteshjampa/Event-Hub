@@ -1,3 +1,8 @@
+# Frontend Repository Link
+https://github.com/jiteshjampa/Event-Hub-Frontend
+# Video Demo
+https://www.loom.com/share/2e8eb0a2d63a4529bb323bb2b7a8a2a1?sid=f2f0a0af-7e7e-48b1-bb9b-481649df4d9a
+
 # Event Management Dashboard - Backend Repository
 
 Welcome to the **Event Management Dashboard Backend**! This backend service provides RESTful APIs for managing events, attendees, tasks, and user authentication.
